@@ -1,6 +1,9 @@
 
 Revision history for Perl extension AxWindow.
 
+0.07  03/02/2004
+	- Correct GetOLE() method when using PAR and PerlApp.
+
 0.06  28/09/2003
         - Rewrite creation method (Remove AttachControl method).
         - No more need to call Release Method before exit.

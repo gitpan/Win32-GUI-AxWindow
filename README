@@ -1,4 +1,4 @@
-Win32::GUI::AxWindow 0.06
+Win32::GUI::AxWindow 0.07
 =========================
 
 Win32::GUI::AxWindow - Perl extension for Hosting ActiveX Control in Win32::GUI

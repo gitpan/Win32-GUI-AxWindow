@@ -13,7 +13,7 @@ require AutoLoader;
 # names by default without a very good reason. Use EXPORT_OK instead.
 # Do not simply export all your public functions/methods/constants.
 @EXPORT = qw();
-$VERSION = '0.06';
+$VERSION = '0.07';
 
 bootstrap Win32::GUI::AxWindow $VERSION;
 
