@@ -1,0 +1,13 @@
+Makefile.PL
+Changes
+AxWindow.pm
+AxWindow.xs
+MANIFEST
+TYPEMAP
+Samples/WebBrowser.pl
+Samples/InfoControl.pl
+Samples/DHtmlEdit.pl
+Samples/DHtmlEdit.pm
+Samples/DHtmlEditor.pl
+Samples/MsFlexGrid.pl
+Samples/TestOLE.pl
